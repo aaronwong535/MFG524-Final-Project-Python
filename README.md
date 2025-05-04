@@ -1,2 +1,2 @@
 # MFG524-Final-Project-Python
-kdineoeinr
+This project focuses on the development and implementation of a Python-based system for real-time estimation of contact wrench (force and torque) at the end-effector of a 3-DOF robot arm, without using on a force/torque sensor. The project will leverage Python libraries for robot modeling, observer design (momentum-based and Extended Kalman Filter), data processing, and results visualization.
